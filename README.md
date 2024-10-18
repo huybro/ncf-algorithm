@@ -56,8 +56,8 @@ The dataset contains user-deck interactions, with each deck containing a set of 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/card-recommendation-system.git
-cd card-recommendation-system
+git clone https://github.com/your-username/ncf-algorithm.git
+cd ncf-algorithm
 ```
 
 ### Install dependencies
